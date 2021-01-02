@@ -13,7 +13,7 @@ public class Yahtzee {
         return total;
     }
 
-    public static int yatzy(int... dice)
+    public static int yahtzee(int... dice)
     {
         int[] counts = new int[6];
         for (int die : dice)
