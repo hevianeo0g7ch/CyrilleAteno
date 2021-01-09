@@ -40,3 +40,4 @@ ou encore 2x[4] et 2x[5] et [6]) / / ils marquent la somme de chaque paire plus 
 # Contributeurs
 - Cyrille FRANCOIS
 - Simon GAUTHERON
+- Ian Gruson
